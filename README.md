@@ -1,6 +1,24 @@
-# Weather Widget
+# Weather Dash
 
-Weather widget is a flask app that adds weather cards to your dashboard based on the name of a city. You can add multiple cities or remove them. The app fetches live weather data from [OpenWeatherMap](https://openweathermap.org/)
+Weather dash is a flask app that adds weather cards to your dashboard based on the name of a city. You can add multiple cities or remove them. The app fetches live weather data from [OpenWeatherMap](https://openweathermap.org/)
+
+## How to use
+
+### Clone Repository
+```
+git clone https://github.com/anish03/weather-widget.git
+```
+
+### Install dependencies
+```
+pip install -r requirements.txt
+```
+
+### Run on localhost
+```
+cd src/
+flask run
+```
 
 ## API endpoints
 
