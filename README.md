@@ -3,6 +3,7 @@
 Weather dash is a flask app that adds weather cards to your dashboard based on the name of a city. You can add multiple cities or remove them. The app fetches live weather data from [OpenWeatherMap](https://openweathermap.org/)
 
 
+
 <p align="center"> 
 	<img width="700" height="450" src="https://github.com/anish03/weather-widget/blob/master/Images/Screenshot.png">
 </p>
