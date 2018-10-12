@@ -9,3 +9,13 @@ Weather widget is a flask app that adds weather cards to your dashboard based on
 * URL
 
 	```/register```
+
+* Method
+
+	```GET``` | ```POST```
+
+* URL Params
+
+	None
+
+
