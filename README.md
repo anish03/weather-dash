@@ -5,7 +5,7 @@ Weather dash is a flask app that adds weather cards to your dashboard for differ
 
 
 <p align="center"> 
-	<img width="700" height="450" src="https://github.com/anish03/weather-widget/blob/master/Images/Screenshot.png">
+	<img width="800" height="450" src="https://github.com/anish03/weather-widget/blob/master/Images/Screenshot.png">
 </p>
 
 ## How to use
