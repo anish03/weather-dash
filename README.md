@@ -6,45 +6,49 @@ Weather widget is a flask app that adds weather cards to your dashboard based on
 
 ### Register
 
-* URL
+* URL:
 	```/register```
 
-* Method
+* Method:
 	```GET``` | ```POST```
 
-* URL Params
+* URL Params:
 	None
 
 ### Account
 
-* URL
+* URL:
 	```/account```
 
-* Method
+* Method:
 	```GET``` | ```POST```
 
-* URL Params
+* URL Params:
 	None
 
 ### New Post
 
-* URL
+* URL:
 	```/post/new```
 
-* Method
+* Method:
 	```POST```
 
-* URL Params
+* URL Params:
 	None
 
 ### Post
 	
-* URL
-	```/post/:id
+* URL:
+	```/post/:id```
 
-* Method
+* Method:
 	```GET```
 
-* URL Params
+* URL Params:
 	#### Required
 	```id=[integer]```
+
+<p>
+	<img src="https://github.com/anish03/weather-widget/blob/master/Images/Screenshot.png">
+</p>
