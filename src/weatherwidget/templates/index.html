@@ -1,7 +1,7 @@
 {% extends "layout.html" %}
 {% block content %}
     {% for city in cities %}
-        <article class="media content-section">
+        <article style="box-shadow: 5px 5px lightgrey;" class="media content-section">
           <div class="media-body">
           <form action="{{ url_for('delete_post', id=city.id) }}" method="POST">
             <!--<input class="btn btn-danger" type="submit" value="Delete">-->
