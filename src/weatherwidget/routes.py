@@ -7,7 +7,7 @@ from weatherwidget.models import User, City
 from weatherwidget import app, db, bcrypt
 import random, os
 from flask_login import login_user, current_user, logout_user, login_required
-url = 'http://api.openweathermap.org/data/2.5/weather?q={}&units=imperial&appid=11947201764b5cdd68cd4978b5632046'
+url = 'http://api.openweathermap.org/data/2.5/weather?q={}&units=imperial&appid=API_KEY'
 
 @app.route("/")
 @app.route("/home ")
