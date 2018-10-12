@@ -7,4 +7,5 @@ Weather widget is a flask app that adds weather cards to your dashboard based on
 ### registerr
 
 * URL
+
 ```/register```
