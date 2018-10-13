@@ -15,6 +15,11 @@ Weather dash is a flask app that adds weather cards to your dashboard for differ
 git clone https://github.com/anish03/weather-widget.git
 ```
 
+### Activate Virtualenv
+```
+source bin/activate
+```
+
 ### Install dependencies
 ```
 pip install -r requirements.txt
