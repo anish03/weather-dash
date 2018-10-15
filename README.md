@@ -8,6 +8,40 @@ Weather dash is a flask app that adds weather cards to your dashboard for differ
 	<img width="800" height="450" src="https://github.com/anish03/weather-widget/blob/master/Images/Screenshot.png">
 </p>
 
+## Folder Structure
+
+```
+.
+├── Images
+├── LICENSE
+├── README.md
+├── bin
+├── include
+├── lib
+├── pip-selfcheck.json
+├── requirements.txt
+└── src
+```
+### src 
+
+```
+.
+├── app.py
+├── app.pyc
+└── weatherwidget
+    ├── __init__.py
+    ├── __init__.pyc
+    ├── forms.py
+    ├── forms.pyc
+    ├── models.py
+    ├── models.pyc
+    ├── routes.py
+    ├── routes.pyc
+    ├── static
+    ├── templates
+    └── weather.db
+```
+
 ## How to use
 
 ### Clone Repository
