@@ -1,6 +1,6 @@
 # Weather Dash
 
-Weather dash is a flask app that adds weather cards to your dashboard for different cities. You can add multiple cities or remove them. The app fetches live weather data from [OpenWeatherMap](https://openweathermap.org/)
+Weather dash is a flask app that adds weather cards to your dashboard for different cities. The app fetches live weather data from [OpenWeatherMap](https://openweathermap.org/)
 
 
 
